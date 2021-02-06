@@ -19,3 +19,5 @@ User functionalities we plan on including:
 * github.com/riniguez91
 * github.com/victor00hs
 * github.com/rubenoritznieto
+
+PD: Since all of our information is written in Spanish expect some parts that we can't simply write in English, doesn't affect the overall readibility of the code and docs. 

@@ -1,0 +1,26 @@
+Titulo
+####
+Google Fotos: Adiós al almacenamiento ilimitado a partir de junio de 2021
+
+Entradilla
+####
+La compañía Google ha anunciado que, a partir de junio de 2021, la opción de almacenar gratuitamente y sin límite de espacio los archivos en su aplicación Google Fotos dejará de estar disponible. Con ello, una vez se alcancen los 15GB, el usuario tendrá que pagar en caso de querer aumentar la cantidad de espacio en la nube. 
+
+Cuerpo
+####
+A partir de junio de 2021 tendremos que despedirnos del almacenamiento gratuito e ilimitado de Google Fotos. Pese a que la compañía mantiene 15 GB de carácter gratuito, Google obligará a pagar a cualquier usuario que supere esa cantidad de almacenamiento a partir del año que viene. No obstante, los contenidos que subamos hasta entonces a la aplicación Google Fotos no contarán como parte de esos 15GB de almacenamiento, sino que seguirán disponibles en la opción 'Alta Calidad' a la que se accede desde la cuenta propia de Google. La compañía ha justificado este cambio de política 'con el fin de dar la bienvenida a más recuerdos y construir Google Fotos para el futuro', ya que 'permite seguir el ritmo de la creciente demanda de almacenamiento'. Un cambio al que se sumarán también los archivos de Google Drive, que se verán afectados por la misma política de la empresa, que eliminará además todas las cuentas inactivas en Google automáticamente. Google dice adiós al almacenamiento gratuito de fotos cinco años después La compañía lanzó esta iniciativa de almacenamiento de fotos en la nube con Google+, pero no fue hasta 2015 cuando estrenó el plan ilimitado y gratuito de 'Alta Calidad'. Sin embargo, con Google +, las fotos y vídeos que se almacenaban terminaban comprimiéndose al plan de 'Calidad Original', un aspecto que cambió con la llegada de Google Fotos, que permite almacenar las imágenes con gran calidad pese a la compresión de los archivos. Desde entonces, los usuarios con iOS y Android se despreocuparon por qué hacer con sus fotos, pues la opción de Google les daba la solución de gestionar sus archivos de forma gratuita y manteniendo la calidad de los mismos. De hecho, la compañía asegura que cada semana se almacenan más de 28.000 millones de fotos y vídeos en este servicio. Las excepciones de pago en Google Fotos a partir de 2021 Existe una excepción que salva de pagar por el almacenamiento de archivos en Google Fotos. Aquellos usuarios que tengan un Google Pixel, desde el modelo 1 hasta el 5, podrán seguir subiendo sus archivos al almacenamiento de 'Alta Calidad' sin que cuenten en los 15GB que a partir de junio de 2021 impone la empresa como límite gratuito. Sin contar estas excepciones, Google calcula que a partir del 1 de junio del año que viene, más del 80% de las personas no superarán el límite de 15 GB gratuito, por lo que los usuarios seguirán usando su cuenta durante tres años más sin pagar. Además, la compañía asegura que, hasta que entre en vigor la obligación de pago, no se tomarán medidas, y que para que el usuario sepa cuánto tiempo de espacio gratuito le queda disponible en su cuenta, podrá consultarlo desde la web de Google, donde la empresa proporcionará esa información para cada cuenta particular. ¿Cuáles serán los pagos para el almacenamiento en Google Fotos? De acuerdo a los datos aportados por la compañía, Google establece que el coste destinado a los usuarios que contraten el servicio será de 1,99 euros al mes o 19,99 euros al año para obtener 100GB; 2,99 euros al mes o 29,99 euros al año para alcanzar los 200GB; o 9,99 euros al mes y 99,99 euros al año para obtener 2TB de almacenamiento
+
+Fecha Publicacion
+####
+2020-11-12T11:49:52.202+01:00
+
+Keywords
+####
+"almacenamiento",
+"Google",
+"pago",
+"fotos"
+
+URL
+####
+https://www.antena3.com/noticias/tecnologia/google-fotos-obligara-pagar-almacenamiento-archivos-partir-junio-2021_202011125fad1350cdfdea00017eb788.html

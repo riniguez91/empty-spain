@@ -1,0 +1,27 @@
+Titulo
+####
+Explota una bomba casera cerca de la casa del expresidente argentino Mauricio Macri
+
+Entradilla
+####
+Una bomba casera ha explotado este miércoles cerca de la casa del expresidente argentino Mauricio Macri (2015-2019), y aunque no ha dejado heridos ni daños materiales, se investiga si está relacionado con algún tipo de intimidación política.
+
+Cuerpo
+####
+En la localidad bonaerense de Acassuso, a apenas 300 metros de la casa de Macri, un artefacto ha sido detonado dentro de un contenedor, que se prendió fuego tras la explosión. Hasta el momento, no se han reportado heridos por el incidente ni daños materiales más allá del propio contenedor, mientras que la Policía Federal se encuentra en la zona para determinar lo sucedido y si está relacionado con algún tipo de intimidación contra el expresidente. Según las primeras investigaciones recogidas por la prensa argentina, aunque el artefacto no tenía la capacidad de causar grandes estragos, se descarta en un principio que se tratara de una explosión accidental, sino que habría sido provocada, por lo que se investigan posibles motivaciones políticas. Vecinos de la zona han asegurado al periódico argentino 'La Nación' que la detonación ha sido 'fuerte', mientras que se ha confirmado que al momento de la explosión el antiguo mandatario se encontraba en su residencia. En este momento, las autoridades trabajan en revisar las cámaras de seguridad del entorno para identificar a posibles sospechosos, después de que varios testigos hayan asegurado que dos personas con moto se habrían acercado hasta el contenedor
+
+Fecha Publicacion
+####
+2020-11-12T08:44:23.679+01:00
+
+Keywords
+####
+"Mauricio Macri",
+"Bomba",
+"atentado",
+"Noticias Última Hora",
+"Argentina"
+
+URL
+####
+https://www.lasexta.com/noticias/internacional/explota-una-bomba-casera-cerca-de-la-casa-del-expresidente-argentino-mauricio-macri_202011125face7d8cdfdea00017e6879.html

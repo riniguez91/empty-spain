@@ -1,0 +1,30 @@
+Titulo
+####
+Paro, despoblación y un futuro incierto: León empieza a sufrir las consecuencias de la España vaciada
+
+Entradilla
+####
+León ya es definida como la 'Detroit española'. El paro roza el 17% en la capital y el 19% en Ponferrada, la segunda ciudad más poblada de la provincia. 
+
+Cuerpo
+####
+El abandono de la agricultura y la minería han cambiado el paisaje leonés, donde la descarbonización se ha cebado con el empleo. 'No tenemos futuro para nada. Nuestros chavales están fuera', ha denunciado un vecino de la provincia, que ha perdido sus tres centrales térmicas en apenas dos años. La Robla es la última de estas fábricas que queda en pie, pero echará definitivamente el cierre en junio. Paradójicamente, el cartel que da bienvenida a este muncipio ('La Robla, pasado y futuro') ilustra mejor su pasado que su futuro. 'Quedamos solo los jubilados. A mí me da mucha pena. Se acaba la mina y La Robla', lamentan los vecinos. Boñar es otra muestra de la España vaciada. El municipio contaba con 2600 vecinos en 1996, y tiene 800 menos en a la actualidad. 'Que inviertan y creen puestos de trabajo, que es lo que necesita, que la juventud está marchando fuera', ha reclamado otro vecino de Boñar. Es uno de los 23 municipios leoneses que aprueba una moción que pretende recuperar la autonomía regional perdida con la reforma de 1983. 'Estamos siendo ciudadanos de tercera categoría en cuanto a servicios', ha criticado José Villa, alcalde de Boñar. Tampoco la ciudad de León, que llegó a ser capital de un reino que abarcaba media peninsula ibérica, puede evitar actualmente la despoblación. Contaba con 147.000 habitantes en 1995 y ahora son 23.000 menos. Ha sido definida ya como la 'Detroit española', otra gran ciudad menguante. 'Tenemos que dar un paso adelante: ser más críticos, exigentes y estar más concienciados', ha reclamado un ciudadano leonés. El paro en la capital roza el 17%. En Ponferrada, la segunda ciudad más poblada de la provincia, se acerca al 19%
+
+Fecha Publicacion
+####
+2020-02-16T14:35:36.008+01:00
+
+Keywords
+####
+"León",
+"Ponferrada",
+"Boñar",
+"Desempleo",
+"despoblación",
+"Castilla y León",
+"Manifestación",
+"Noticias Última Hora"
+
+URL
+####
+https://www.lasexta.com/noticias/sociedad/crisis-desempleo-y-despoblacion-leon-empieza-a-sufrir-las-consecuencias-de-la-espana-vaciada_202002165e4945280cf29572b94f8957.html

@@ -1,0 +1,27 @@
+Titulo
+####
+La solución al transporte a -80ºC de la vacuna de Pfizer: así llegará a España
+
+Entradilla
+####
+Pfizer se encargará de trasladarla a diversos puntos de España y de otros países de la UE. Después, serán las comunidades autónomas las que se hagan cargo del almacenaje hasta inocularla a 37ºC.
+
+Cuerpo
+####
+Una de las incógnitas que existen respecto a la vacuna de Pfizer es cómo transportarla a -80ºC, ya que necesita ser conservada en un ultracongelador. Por eso, su distribución por todo el mundo va a suponer un gran un reto. Sin embargo, Pfizer ya ha dado claves de cómo hacerlo: utilizará grandes contenedores que ya se emplearon en la vacuna contra el ébola y que incluirán testigos que garantizarán que la caja mantiene la cadena de frío. La vacuna, que se está fabricando en Alemania y en Bélgica, se trasladará a diversos puntos de España que aún no se han concretado. De eso se encargará Pfizer, pero después los desplazamientos quedarán en manos de las comunidades autónomas, según la Agencia Española de los Medicamentos. Las dosis llegarán paulatinamente en contenedores que pueden llegar a albergar hasta 1.800 vacunas y que permiten su conservación en buen estado durante cuatro semanas. Sin embargo, a los 15 días hay que cambiar el hielo, y todavía se tiene que concretar la forma de hacerlo. Pasado ese periodo la vacuna se puede refrigerar de cinco a seis días a temperaturas no tan extremas: entre 2 y 8 grados que permitirían trasladarlas a centros de salud. Después llega la inoculación. Para inocularla, la vacuna debe estar a una temperatura de unos 37 grados. Sin embargo, el proceso de descongelación es rápido, de tan solo minutos. Desde entonces tan solo será efectiva durante seis horas. Detalles a tener en cuenta sabiendo que la compleja logística de la vacuna de Pfizer deberá compaginarse en algún momento con la llegada de otras vacunas
+
+Fecha Publicacion
+####
+2020-11-11T16:53:59.62+01:00
+
+Keywords
+####
+"Vacuna",
+"pandemia",
+"Coronavirus",
+"COVID19",
+"Pfizer"
+
+URL
+####
+https://www.lasexta.com/noticias/internacional/la-solucion-al-transporte-a-80c-de-la-vacuna-de-pfzer-asi-llegara-a-espana_202011115fac0918cdfdea00017d36ec.html

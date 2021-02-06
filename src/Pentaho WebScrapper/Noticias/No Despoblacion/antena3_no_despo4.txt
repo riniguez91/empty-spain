@@ -1,0 +1,23 @@
+Titulo
+####
+Apple: La compañía presenta su chip M1 en sociedad como 'el procesador más potente jamás creado'
+
+Entradilla
+####
+Tim Cook, CEO de Apple, ha presentando el evento desde la cantina de Apple Park totalmente vacía. Apple ha presentado los nuevos Mac que incorporarán el nuevo procesador, especialmente diseñado por la propia compañía para sus ordenadores.
+
+Cuerpo
+####
+Tim Cook ha sido el encargado de presentar el evento desde la cantina de Apple Park vacía. 'Este otoño lanzamos más productos que nunca en la historia de la compañía' ha afirmado el CEO de Apple. 'Es el momento de hablar de Una cosa más, es el momento de hablar del Mac', ha asegurado Tim Cook. Apple ha escogido el título &#39;Una cosa más&#39;, recuperando una frase antológica de Steve Jobs, fundador de la compañía, para una jornada memorable para Apple. Es el momento en el que la empresa californiana presenta su nuevo procesador M1 y lo que significa la transición de Intel a Apple Silicon. Un nuevo procesador 'En todos los lugares del mundo la gente usa Mac para realizar cosas increíbles' ha explicado Tim Cook, CEO de Apple. La compañía ha proyectado varios vídeos a lo largo de la presentación, uno de ellos con famosos usando Mac. Lady Gaga, Spike Lee y hasta Lisa Simpson. El nuevo chip de Apple se llamará M1, lo que se traduce en más eficiencia energética y rendimiento. El M1 trabajará el doble de rápido que el mejor chip de cualquier otro portátil. Apple califica el M1 como el 'procesador más potente jamás creado'. Craig Federighi, director de software de Apple, ha presentado el nuevo software para Mac, el macOS Big Sur. 'El software Big Sur en un Mac con M1 funciona de forma espectacular', ha explicado en el evento de Apple el jefe de software. El nuevo procesador M1 mejora el rendimiento en los gráficos 3D y videojuegos. El nuevo software macOS Big Sur permitirá pasar a la pantalla del Mac cualquier aplicación disponible en iPhone o iPad. Y ojo porque será 10 veces más rápido que cualquier otro procesador. Nuevo MacBook Air El nuevo MacBook Air también llegará con el nuevo procesador M1. Un PC que será más eficiente y silencioso. Será 2,8 veces más rápido que el anterior modelo de Apple e incorpora una pantalla retina de 13'. A pesar de las mejoras seguirá manteniendo el mismo precio en el mercado. El nuevo MacBook Air aumenta su autonomía gracias al nuevo procesador M1 lo que dará más vida a la batería. Por cierto, el nuevo MacBook Pro se pueden encargar ya y estarán disponible en tienda la semana que viene. El nuevo Mac Mini lleva también incorporado el nuevo chip M1. Gracias al nuevo procesador será 5 veces más rápido que cualquier ordenador portátil de otra marca. Apple abandona Intel con este nuevo procesador. Se espera que la transición dure unos dos años
+
+Fecha Publicacion
+####
+2020-11-10T20:26:34.146+01:00
+
+Keywords
+####
+"apple"
+
+URL
+####
+https://www.antena3.com/noticias/tecnologia/procesador-mas-potente-jamas-creado-apple-presenta-chip-sociedad_202011105faae96a0e37c40001fecaac.html

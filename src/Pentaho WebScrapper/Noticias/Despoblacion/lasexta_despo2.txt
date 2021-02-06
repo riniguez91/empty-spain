@@ -1,0 +1,27 @@
+Titulo
+####
+La España vaciada, más vacía que nunca por el coronavirus: así intentan hacer frente a la epidemia
+
+Entradilla
+####
+Sus habitantes se enfrentan al coronavirus con dificultades añadidas: una población envejecida y pocos recursos sanitarios, además de la falta de telecomunicaciones.  
+
+Cuerpo
+####
+En los pueblos de la España vaciada el confinamiento que ha decretado el Gobierno para combatir la epidemia de coronavirus apenas ha variado el paisaje. Pero sí los gestos y costumbres. Por ejemplo, mujeres de la comarca palentina de Saldaña cocinan y proveen de alimentos a los vecinos de la zona, mayores casi todos. 'Ellos están en sus salas. Tú entras, dejas la comida en la nevera y te vas. Si antes el pueblo era triste porque no veías a nadie, ahora es como si hubiera pasado un tsunami que se ha llevado a todo el mundo', ha señalado Loreto Fernández, miembro de la Asociación de Mujeres Rurales. También en la región de Murcia, donde los agricultores continúan saliendo al campo a trabajar, crece la solidaridad entre la población. 'Hay zonas que están más aisladas y se ha hecho una red de voluntarios para atender a las personas mayores y que no salgan de sus casas', ha explicado Victoria Molina, agricultora. Allí, como en toda la España vaciada, los centros de salud están cerrados. Si alguien necesita cualquier cosa, debe llamar por teléfono para recibir asistencia domiciliaria. Los médicos rurales, especialmente expuestos al contagio, piden más medidas. 'Para que se garantice nuestra salud laboral. Necesitamos mascarillas, equipos de protección adecuados y pruebas diagnósticas para los profesionales', han reclamado. Los hospitales están al límite. El complejo sanitario de Santa Bárbara, en Soria, ha abierto ya la última planta que le quedaba para contingencias. 'En cuanto a material sanitario, está faltando de todo, y faltará. Un agricultor que tenía dos o tres monos que utiliza para los productos fitosanitarios se los llevó al centro de salud. Se lo agradecieron enormemente porque en las zonas rurales tienen muy poco material', ha lamentado Juan Antonio Palomar, trabajador sanitario y portavoz de ‘Soria ¡YA’. Se trata de un material indispensable para su defensa
+
+Fecha Publicacion
+####
+2020-03-28T18:44:29.051+01:00
+
+Keywords
+####
+"epidemia",
+"Coronavirus",
+"Noticias Última Hora",
+"España vaciada",
+"Mundo Rural"
+
+URL
+####
+https://www.lasexta.com/noticias/nacional/la-espana-vaciada-mas-vacia-que-nunca-por-el-coronavirus-asi-intentan-hacer-frente-a-la-epidemia_202003285e7f8cfdd41df90001c73875.html

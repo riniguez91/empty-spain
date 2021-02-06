@@ -1,0 +1,27 @@
+Titulo
+####
+Zamora es la provincia española que más ha sufrido la despoblación
+
+Entradilla
+####
+Acceder a los servicios sanitarios no siempre es fácil. Los consultorios centralizan la atención médica y la figura del médico rural se convierte en un servicio esencial. 
+
+Cuerpo
+####
+Acceder a servicios sanitarios cuando se reside en zonas poco pobladas resulta complicado. Según el INE, la provincia española que más ha sufrido el efecto de la despoblación es Zamora en los últimos diez años. La provincia cuenta con un 11% menos de habitantes que en 2009. Le siguen Teruel y Cuenca. En estas ciudades, la figura de los médicos rurales son esenciales. Aunque nuestro país supera en un 12% la media europea en número de médicos por habitante, la distribución del personal sanitario es muy dispar. Las diferencias por comunidades son muy profundas. Mientras en Navarra tienen 611 médicos por cada 100.000 habitantes, en Castilla -La Mancha solo tienen 400 por cada 100.000. La brecha es aún más honda en las áreas menos pobladas, donde cada vez se cierran más centros médicos y más difícil es acceder a un médico. Navalacruz, un pueblo vacío En Ávila, 90.000 pacientes dependen de los sanitarios rurales. El municipio de Navalacruz tan solo tiene 247 habitantes censados. En invierno, sin embargo, no viven ni la mitad. Los vecinos de la localidad son mayores, la media de edad ronda los 80 años. Todos los martes y viernes acuden al centro médico para su consulta con el médico y el enfermero. Los ancianos necesitan a alguien que les mida la tensión a diario para no acabar hospitalizados. Un enfermero recorre cinco localidades vecinas para atender a todos las personas mayores de la zona, aunque no tengan cita. Ahora, el consultorio del pueblo corre peligro
+
+Fecha Publicacion
+####
+2020-01-12T16:48:17.532+01:00
+
+Keywords
+####
+"video",
+"Navalacruz",
+"Centro Médico",
+"Zamora",
+"despoblación rural"
+
+URL
+####
+https://www.antena3.com/noticias/sociedad/zamora-es-la-provincia-espanola-que-mas-ha-sufrido-la-despoblacion_202001125e1b3fc20cf2b262340a38c9.html

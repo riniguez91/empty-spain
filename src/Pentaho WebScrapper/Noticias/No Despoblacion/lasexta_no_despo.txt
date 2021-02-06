@@ -1,0 +1,28 @@
+Titulo
+####
+Primark da marcha atrás y retira el ERTE para sus 7.000 empleados en toda España
+
+Entradilla
+####
+La firma pretendía llevar a cabo un ERTE por causas organizativas y de producción debido al segundo estado de alarma en España.
+
+Cuerpo
+####
+Primark ha dado marcha atrás en su intención de lanzar un ERTE a toda su plantilla en España después de la negativa de los sindicatos a avalarlo. La firma de moda 'low-cost' pretendía tomar esta medida hasta el 31 de agosto de 2021 debido al decreto de estado de alarma para frenar la segunda ola del coronavirus. El objetivo era que todas las tiendas estuvieran bajo este expediente pero que solo se aplicara en aquellas que tuvieran que cerrarse temporalmente a causa de las medidas contra la pandemia o cuyas transacciones disminuyeran a lo largo de la semana. Los sindicatos han considerado 'inviable' la propuesta, por lo que se ha paralizado la negociación en búsqueda de nuevas opciones jurídicas que garanticen 'mejores condiciones' laborales para los empleados de Primark, de acuerdo con el sindicato Fetico. La nueva postura de la empresa pasa por ir adoptando decisiones sobre las tiendas en función de las restricciones adoptadas por las comunidades autónomas e irá informando puntualmente al respecto. Por su parte, CCOO ha indicado que no podían firmar un ERTE hasta finales de agosto y que dependiera del número de operaciones en cada tienda para aplicar una suspensión de contrato o reducción de jornada a los trabajadores. Primark ya se acogió a un ERTE durante el primer estado de alarma de este año y cuenta con 45 tiendas en todo el país y una plantilla de más de 7.000 empleados. La caída de ventas por los confinamientos en Europa tuvo un impacto destacado sobre el beneficio de la compañía, que si bien tuvo un beneficio de 402 millones de euros a fin de su año fiscal (con cierre en septiembre), esto supone una caída del 60% en sus ganancias en comparación con el año anterior. La facturación también se redujo un 24 % hasta los 6.545 millones de euros
+
+Fecha Publicacion
+####
+2020-11-11T18:08:52.057+01:00
+
+Keywords
+####
+"COVID-19",
+"Primark",
+"pandemia",
+"ropa",
+"coronavirus españa",
+"ERTE"
+
+URL
+####
+https://www.lasexta.com/noticias/economia/primark-marcha-atras-retira-erte-sus-7000-empleados-toda-espana_202011115fac1aa4cdfdea00017d5408.html

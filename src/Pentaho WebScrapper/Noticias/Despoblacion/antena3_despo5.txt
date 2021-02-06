@@ -1,0 +1,25 @@
+Titulo
+####
+La España vacía se queda sin cuarteles de la Guardia Civil
+
+Entradilla
+####
+En España hay 2300 cuarteles y mantenerlos es muy costoso. En los últimos 15 años han cerrado 88, muchos en pueblos pequeños.
+
+Cuerpo
+####
+La España vacía se queda también sin cuarteles de la Guardia Civil. En los últimos 15 años se han cerrado 88. Uno de ellos, por ejemplo, del de Pedroche, un pueblo de Córdoba, tiene 830 metros, tiene tres plantas y se vende por 78.459 euros. Pero nadie lo quiere. Aunque hay más ejemplos. Nadie responde al telefonillo del cuartel de la Guardia Civil en Loeches, en Madrid. Un cartel advierte que está cerrado temporalmente por deficiencias. Pero el cierre es ya definitivo y los vecinos se quejan de la inseguridad que les genera. En el cuartel de Hita solo hay guardias durante unas horas al día. Los agentes prefieren vivir en la cercana Guadalajara. En España hay 2300 cuarteles y mantenerlos es muy costoso. En los últimos 15 años han cerrado 88, muchos en pueblos pequeños. Algunos de ellos están en venta, pero su mal estado impide encontrar compradores. La asociación mayoritaria de guardias civiles propone cuarteles más grandes que atiendan a varias localidades. En el acuerdo de Gobierno entre PSOE y Podemos se garantiza la seguridad de los pueblos para revertir la despoblación. Pero en muchos casos ya no hay cuarteles para ir destinado
+
+Fecha Publicacion
+####
+2020-01-21T18:51:56.854+01:00
+
+Keywords
+####
+"Guardia Civil",
+"cuarteles",
+"españa vacía"
+
+URL
+####
+https://www.antena3.com/noticias/sociedad/la-espana-vacia-se-queda-sin-cuarteles-de-la-guardia-civil_202001215e273a3d0cf252fc10c21ef2.html

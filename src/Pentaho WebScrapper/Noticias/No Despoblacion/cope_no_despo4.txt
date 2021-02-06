@@ -1,0 +1,23 @@
+Titulo
+####
+El Gobierno baja a 0,72 euros el precio máximo de las mascarillas quirúrgicas
+
+Entradilla
+####
+El nuevo precio mantiene un IVA del 21% a este producto a la espera de la bajada al 4% anunciada por el Ejecutivo
+
+Cuerpo
+####
+El Gobierno, a través de la Comisión Interministerial de Precios de los Medicamentos (CIPM), ha acordado bajar un 25% el precio máximo de venta al público de las mascarillas quirúrgicas. A partir de ahora no costarán más de 0,72 euros, frente a los 0,96 que costaban en la actualidad. El objetivo es que las personas puedan acceder en condiciones económicas no abusivas a este producto sanitario de protección de la salud. Sin embargo, este precio se ha acordado y aprobado con un IVA del 21%, según el Ministerio. El Gobierno anunció este miércoles la bajada del tipo impositivo al 4% en la reunión del Consejo de Ministros que tendrá lugar el próximo martes. La comisión ha fijado este precio después de revisar los precios de mercado actuales de las mascarillas quirúrgicas en España, tanto en grandes superficies, como en oficinas de farmacia y venta online con objeto de garantizar la libre competencia por debajo del precio máximo fijado
+
+Fecha Publicacion
+####
+2020-11-12T16:47:00+01:00
+
+Keywords
+####
+Actualidad","Sociedad
+
+URL
+####
+https://www.cope.es/actualidad/sociedad/noticias/gobierno-baja-072-euros-precio-maximo-las-mascarillas-quirurgicas-20201112_994160

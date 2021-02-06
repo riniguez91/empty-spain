@@ -1,0 +1,24 @@
+Titulo
+####
+XBox Series X: Así es la nueva consola de Microsoft ya disponible en España
+
+Entradilla
+####
+Llega a España la Xbox Series X, la nueva consola de Microsoft disponible en tiendas desde el martes 10 de noviembre. Con un precio de 499,99 euros, el lanzamiento de este nuevo modelo viene acompañado de una hermana pequeña, la Xbox Series S, con un precio inferior y de gama más baja. 
+
+Cuerpo
+####
+Este martes llegó a España la nueva consola de Microsoft, la Xbox Series X, cargada de mejoras respecto a su modelo anterior, entre las que se encuentran un aumento de la velocidad de carga. Con una preventa problemática, en la que muchos usuarios confundieron su nombre y encargaron la generación anterior, el nuevo modelo viene acompañado de una hermana pequeña, con un precio más accesible y un tamaño menor. El precio de la Xbox Series X se sitúa en 499,99 euros, y ya está disponible su compra en tiendas desde el 10 de noviembre en España. Esta nueva consola de Microsoft presenta mejoras respecto a modelos anteriores, que ya fueron anunciadas desde diciembre del año pasado por la compañía, además de acompañarse de un modelo Xbox más pequeño, la Xbox Series S, que presenta más carencias previsibles por su gama más baja aunque un precio más accesible, concretamente 299,99 euros. 'La Xbox más rápida y potente de toda la historia', con este mensaje, la cuenta oficial de la consola, anunciaba en sus redes sociales el nuevo modelo Xbox Series X, que cuenta con un tamaño y una disposición distinta a la estética de sus predecesoras. ¿Qué novedades presenta la Xbox Series X? De acuerdo a las características que ha proporcionado Microsoft y las predicciones de los expertos, la nueva consola llega para revolucionar el mundo del gaming, ya que cuenta con un soporte de torre de PC que permite recrear la experiencia de juego a un nivel superior. Además, otra de las novedades que incluye la Xbox Series X es el aumento de la velocidad de carga, ya que su CPU -unidad de proceso central- va unida al SSD -responsable del almacenamiento secundario- logrando que los juegos se carguen mucho más rápido que su predecesora, la Xbox One, que tanta confusión generó entre los usuarios. De acuerdo a los estudios realizados hasta ahora, todo apunta a que la velocidad de carga llega a cuadruplicarse. Microsoft añade también a su nuevo modelo una ranura de expansión de almacenamiento patentada. Por el momento, solo Seagate se ha pronunciado como socio para estas tarjetas de 1TB, aunque su precio se eleva a la cantidad de 249 euros. No obstante, la Xbox Series X deja un espacio real menor a ese 1TB, ya que los usuarios solo contarán con una capacidad de 802 GB a la hora de instalar juegos y las distintas aplicaciones. 'Iluminación, sombras y reflejos precisos y realistas para crear mundos dinámicos y vivos'. Con ese mensaje de la compañía, Microsoft advierte que el dispositivo cuenta con una potencia de procesamiento alojado en un chip que funciona con las arquitecturas Zen 2 y RDNA 2 de AMD, que permiten ese resultado. La calidad de la nueva Xbox es otra de sus muchas novedades. Este modelo permite que la consola apunte a 4K, además de utilizar un audio espacial 3D que crea sonidos envolventes que 'te ponen en el centro de la experiencia', informa la compañía. Por último, la capacidad de refrigeración paralela de la Xbox Series X está hecha a partir de 3 canales distintos, por lo que la consola ni se calienta, ni hace ruido. La guerra de las consolas El lanzamiento de Microsoft y su modelo Xbox Series X se produce en coincidencia con la novedad de la compañía Sony, la PlayStation 5, que saldrá a la venta el próximo 19 de noviembre. Aunque es una situación que ya se había repetido en ocasiones anteriores, puesto que sus modelos predecesores, la Xbox One y la PS4, salieron también al mismo tiempo
+
+Fecha Publicacion
+####
+2020-11-11T11:30:19.225+01:00
+
+Keywords
+####
+"Microsoft",
+"xbox"
+
+URL
+####
+https://www.antena3.com/noticias/tecnologia/asi-xbox-series-nueva-consola-microsoft-disponible-espana_202011115fabbd3b2416a60001a74e0d.html
